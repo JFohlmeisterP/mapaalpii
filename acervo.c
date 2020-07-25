@@ -74,7 +74,7 @@ int main()
 }
 
 void identificacao(){
-	system("cls");
+	system("clear");
 	int t;
 	for(t=0; t<80; t++) printf("-");
 	printf("\n JULIANA FOHLMEISTER PASOLD");
